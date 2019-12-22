@@ -1,4 +1,4 @@
-# FAB 2019 Website
+# FAB 2018 Website
 
 ## Instructions for making changes to website
 
@@ -8,18 +8,18 @@ If you don't have a github account, please create one at https://github.com
 
 ### Step 2: Access to repository
 
-If you are new to github or already have an account, you need permission to work in the repository. Ask your administrator
+If you are new to github or already have an account, you need permission to work in the repository. Ask your administrator 
 to provide permissions.
 
 ### Step 3: Install Git in your laptop/computer
 
-If you don't have git installed in your computer, please follow the instructions here.
+If you don't have git installed in your computer, please follow the instructions here. 
 
 ### Step 4: Checkout repository
 
 From your unix terminal window use the following command to check out the repository
 
-> git clone https://github.com/scfab/scfab2019.git
+> git clone https://github.com/scfab/2018.git
 
 A directory called 2018 will be created which houses the repository.
 
@@ -29,9 +29,9 @@ You can edit the pages or add new pages as you like
 
 ### Step 6: Committing to the repository
 
-In order to know the list of newly added files or the modified files do
+In order to know the list of newly added files or the modified files do 
 
-> git status
+> git status 
 
 Now do git add for the untracked files by using the following command
 
@@ -41,11 +41,11 @@ You should use git commit to push the changes. Note it will commit to the local 
 
 > git commit -m "Your Message"
 
-### Step 7: Push the repository
+### Step 7: Push the repository 
 
 You can push the changes to main branch by doing the following
 
-> git push
+> git push 
 
 After these only the pages will show up in the website
 
@@ -59,9 +59,9 @@ Once you have installed Jekyll, cd to your repository directory and in a separat
 
 > jekyll serve --watch
 
-This will not terminate. In another terminal window, you can edit or change the files in the repository.
+This will not terminate. In another terminal window, you can edit or change the files in the repository. 
 
-In order to preview the site, open up a browser and in it open the url
+In order to preview the site, open up a browser and in it open the url 
 
 http://localhost:4000/
 
