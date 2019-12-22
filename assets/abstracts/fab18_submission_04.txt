@@ -1,0 +1,21 @@
+Blockchain-like protocols are flourishing. Maybe not surpris-
+ingly, the differences among these protocols are often subtle
+and difficult to understand. More importantly, it is often
+unclear what the weaknesses of each of these protocols are
+and how easily they can be attacked. The goal of this paper is
+to shed light on the important differences between blockchain
+protocols and the impact these differences can have in terms of
+their vulnerabilities. We cover well-studied protocols ranging
+from those inspired from the distributed systems literature
+(e.g., PBFT), to recent research prototypes (e.g., ByzCoin or
+Algorand), including the popular Bitcoin protocol.
+Towards reaching our goal, we first precisely define the
+problem that these protocols seek to solve. Then we propose
+a unifying scheme that captures, at a high level, the behavior
+of any blockchain protocol. Interestingly, this scheme is also
+sufficiently low level to highlight the important differences be-
+tween these protocols. We show that blockchain-like protocols
+can be differentiated according to their degree of indulgence—
+i.e., tolerance towards node misbehavior or towards network
+asynchrony—which translates into the different vulnerabilities
+of each of these protocols.

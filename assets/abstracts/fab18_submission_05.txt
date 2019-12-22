@@ -1,0 +1,10 @@
+The emergence of cryptocurrencies has created new
+opportunities for loyalty programs. In this paper, we present
+a proof-of-concept cryptocurrency loyalty program called
+Unify Rewards where participants earned Ether
+cryptocurrency by making purchases at participating
+retailers. We outline the experiences gained from conducting
+a field trial of the program with student and staff at UNSW
+Sydney. The results from the trial which included 177
+participants suggests that cryptocurrency is a viable
+alternative to loyalty miles and points.
