@@ -15,7 +15,30 @@ day1:
   title: "Break"
 - end: 12:00 PM
   start: 10:45 AM
-  talks: []
+  talks:
+  - authors:
+    - Muhammad El-Hindi (TU Darmstadt)
+    - Carsten Binnig (TU Darmstadt)
+    - Simon Karrer (TU Darmstadt)
+    - Gloria Doci (TU Darmstadt)
+    title: 'TrustDBle: Towards Trustable Shared Databases'
+  - authors:
+    - Suyash Gupta (University of California Davis)
+    - Sajjad Rahnama (University of California Davis)
+    - Jelle Hellings (University of California Davis)
+    - Mohammad Sadoghi (University of California, Davis)
+    title: 'ResilientDB: Global Scale Resilient Blockchain Fabric'
+  - authors:
+    - Xiaoxue Zhang (University of California, Santa Cruz)
+    - Shouqian Shi (University of California, Santa Cruz)
+    - Chen Qian (University of California, Santa Cruz)
+    title: 'Scalable Decentralized Routing for Blockchain Payment Networks'
+  - authors:
+    - Ethan Cecchetti (Cornell University)
+    - Siqiu Yao (Cornell University)
+    - Haobin Ni (Cornell University)
+    - Andrew Myers (Cornell University)
+    title: 'Securing Smart Contracts with Information Flow'
   title: "Session I"
 - end: 1:00 PM
   start: 12:00 PM
