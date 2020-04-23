@@ -62,6 +62,25 @@ day1:
   start: 3:00 PM
   talks: []
   title: 'Session II'
+  - authors:
+    - Hsien-Tang Kao (Gauntlet)
+    - Tarun Chitra (Gauntlet)
+    - Rei Chiang (Gauntlet)
+    - John Morrow (Gauntlet)
+    title: 'An analysis of the market risk to participants in the Compound protocol'
+  - authors:
+    - NIna van der Giessen (University of Salzburg)
+    - Sergio Sparviero (University of Salzburg)
+    title: ' The legitimacy challenge of cryptocurrencies: a contested field Authors'
+  - authors:
+    - Nathaniel Fowler (California Polytechnic State University, San Luis Obispo)
+    - Eric Cuellar (California Polytechnic State University, San Luis Obispo)
+    - Zachary Peterson (Cal Poly, San Luis Obispo)
+    title: 'On Stablecoins: Stability Mechanisms and Use Cases for Real People'
+  - authors:
+    - Jason Vranek (UCSC)
+    - Yilin Li (UCSC)
+    title: 'Decentralized Markets Evaluating Uniform and Non-Uniform prices'
 - end: 4:35 PM
   start: 4:30 PM
   talks: []
