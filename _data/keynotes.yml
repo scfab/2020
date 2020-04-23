@@ -1,7 +1,6 @@
 alysson:
   name: 'Alysson Bessani, Associate Professor at University of Lisbon, Portugal'
-  title: 'TBA'
-  abstract: 'TBA'
+  bio: 'Alysson Bessani is an Associate Professor of the University of Lisbon Faculty of Sciences, Portugal, and a member of LASIGE research unit. He received his Ph.D. in Electrical Engineering from UFSC (Brazil) in 2006, was a visiting professor at Carnegie Mellon University (2010) and a visiting researcher at Microsoft Research Cambridge (2014). Alysson coordinated/collaborated in ten international projects and co-authored more than 100 peer-reviewed publications on dependability, security, Byzantine fault tolerance, and cloud storage. He is also the principal researcher behind the BFT-SMaRt consensus library (http://bft-smart.github.io/library/) and a co-founder of the Vawlt dependable & secure cloud storage startup (https://vawlt.io). More information about him can be found in http://www.di.fc.ul.pt/~bessani/.'
 dahlia:
   name: 'Dahlia Malkhi, Research Lead at Calibra.'
   title: 'The Journey to Libra Blockchain Core and Beyond'
