@@ -60,8 +60,8 @@ day1:
   title: "Break"
 - end: 4:30 PM
   start: 3:00 PM
-  talks: []
   title: 'Session II'
+  talks:
   - authors:
     - Hsien-Tang Kao (Gauntlet)
     - Tarun Chitra (Gauntlet)
