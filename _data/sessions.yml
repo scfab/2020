@@ -40,6 +40,7 @@ day1:
     - Andrew Myers (Cornell University)
     title: 'Securing Smart Contracts with Information Flow'
   title: "Session I"
+  chair: "Kartik Nayak (Duke University)"
 - end: 1:00 PM
   start: 12:00 PM
   talks: []
@@ -61,6 +62,7 @@ day1:
 - end: 4:30 PM
   start: 3:00 PM
   title: 'Session II'
+  chair: "Shrutarshi Basu (Harvard University)"
   talks:
   - authors:
     - Hsien-Tang Kao (Gauntlet)
